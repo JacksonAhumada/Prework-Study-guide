@@ -38,6 +38,6 @@
     .card {
         width: 80%;
         margin: 40px auto;
-        border: 5px solid gray;
-        box-shadow: 5px 10px #e01b1b;
-    }
+        border: 5px solid rgb(26, 13, 143);
+        box-shadow: 5px 10px #888888;
+    } 
